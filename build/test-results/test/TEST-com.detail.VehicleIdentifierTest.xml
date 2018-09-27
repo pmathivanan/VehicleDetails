@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.detail.VehicleIdentifierTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-27T16:38:35" hostname="DESKTOP-1S7TUS8" time="0.131">
+  <properties/>
+  <testcase name="testGetVehicle" classname="com.detail.VehicleIdentifierTest" time="0.131"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
