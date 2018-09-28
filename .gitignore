@@ -1,3 +1,5 @@
 /.metadata/
 /.gradle/
 /build/
+/bin/
+gradle.properties
