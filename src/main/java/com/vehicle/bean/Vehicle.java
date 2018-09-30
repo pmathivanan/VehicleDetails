@@ -1,4 +1,4 @@
-package com.detail;
+package com.vehicle.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

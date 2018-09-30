@@ -4,6 +4,8 @@ import static org.junit.Assert.assertEquals;
 import javax.ws.rs.core.Response;
 import org.junit.Test;
 
+import com.vehicle.service.VehicleIdentifier;
+
 public class VehicleIdentifierTest {
 	
 	@Test public void testValidVehicle() {
